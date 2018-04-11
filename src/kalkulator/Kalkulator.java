@@ -128,7 +128,7 @@ public class Kalkulator implements FunkcjeKalkulatora {
                 + "4. Division " + "\n");
 
         int tmpChoice = input.nextInt();
-
+//sad
         checkChoise(tmpChoice);
     }
 
